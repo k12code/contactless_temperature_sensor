@@ -1,4 +1,4 @@
-# Contactless Temperature Sensor
+# Contactless Thermometer
 
 ## Breadboard Circuit
 ![Breadboard Circuit](./breadboard_circuit.png)
